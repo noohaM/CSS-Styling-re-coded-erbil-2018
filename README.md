@@ -1,5 +1,5 @@
 # CSS Styling Code Along
-
+.
 ## Objectives
 
 1. Review linking an external CSS file.
